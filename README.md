@@ -2,18 +2,6 @@
 # Hi 👋 I am TopTen1310! 
 I am a software engineer at [AdviceCloud FT](https://advicecloudft.com/), where I specialize in solving complex finanical data problems using cutting-edge technology and tools.
 
-#### AI & Machine Learning Development
-- C++, C#, Java, Python, R
-- Numpy, Scikit-Learn, Pandas, Tensorflow, PyTorch, OpenCV
-- Supervised Learning, Unsupervised Learning, Semi-supervised Learning, Reinforcement Learning
-- PyCharm, Visual Studio Code
-- Cloud Computing, AWS
-- MLP, CNN, RNN
-- Mathematics, Statistics, Algorithm, Signal Processing
-
-#### Windows desktop app Development
-- C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core, WPF
-
 #### Web & Mobile Development
 - HTML5, CSS3, JavaScript, jQuery, Prototype
 - C#, .NET, .NET Core, ASP.NET, Entity Framework
@@ -36,6 +24,18 @@ I am a software engineer at [AdviceCloud FT](https://advicecloudft.com/), where 
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+
+#### AI & Machine Learning Development
+- C++, C#, Java, Python, R
+- Numpy, Scikit-Learn, Pandas, Tensorflow, PyTorch, OpenCV
+- Supervised Learning, Unsupervised Learning, Semi-supervised Learning, Reinforcement Learning
+- PyCharm, Visual Studio Code
+- Cloud Computing, AWS
+- MLP, CNN, RNN
+- Mathematics, Statistics, Algorithm, Signal Processing
+
+#### Windows desktop app Development
+- C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core, WPF
 
 #### Blockchain Development
 - Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
