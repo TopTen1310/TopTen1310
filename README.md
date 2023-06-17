@@ -2,9 +2,63 @@
 # Hi 👋 I am TopTen1310! 
 I am a software engineer at [AdviceCloud FT](https://advicecloudft.com/), where I specialize in solving complex finanical data problems using cutting-edge technology and tools.
 
-- 🌐 Visit my [portfolio website](https://TopTen1310.github.io/) for more information and to get in touch.
-- 👋 Check out my personal [blog](https://TopTen1310.github.io/blog/) for articles and insights.
-- ✍️ Follow me on [Medium](https://TopTen1310.medium.com/) for more written content.
+#### AI & Machine Learning Development
+- C++, C#, Java, Python, R
+- Numpy, Scikit-Learn, Pandas, Tensorflow, PyTorch, OpenCV
+- Supervised Learning, Unsupervised Learning, Semi-supervised Learning, Reinforcement Learning
+- PyCharm, Visual Studio Code
+- Cloud Computing, AWS
+- MLP, CNN, RNN
+- Mathematics, Statistics, Algorithm, Signal Processing
+
+#### Windows desktop app Development
+- C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core, WPF
+
+#### Web & Mobile Development
+- HTML5, CSS3, JavaScript, jQuery, Prototype
+- C#, .NET, .NET Core, ASP.NET, Entity Framework
+- TypeScript, Angular.js, React.js, Node.js, Express
+- Python, Django, Flask, Odoo
+- Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
+- Wordpress, Drupal, Joomla, Typo3
+- WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
+- Laravel, CodeIgniter, CakePHP,
+- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
+- Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
+- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
+
+
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+
+#### Blockchain Development
+- Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
+- DAO, DEX, AMM, Yield Farming, Staking dApps
+- Smart contract development & unit test
+- NFT marketplace, NFT minting
+- CEX Trading Bot (Crypto Exchange APIs, CCXT library)
+- DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
+- NFT mint bot, Opensea sniper bot, Opensea offer bot
+- Web3 chrome extension
+
+
+![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+
+#### Other
+![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 
 ---
 
