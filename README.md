@@ -1,29 +1,42 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+10+years+of+Experience+in+Web." alt="Typing SVG" /></a>
-</div>
 
-## Overview
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elitesuper&theme=github&utcOffset=8" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elitesuper&theme=github" />  
-</div>
+# Hi 👋 I am TopTen1310! 
+I am a software engineer at [AdviceCloud FT](https://advicecloudft.com/), where I specialize in solving complex finanical data problems using cutting-edge technology and tools.
 
-## Achievements
+- 🌐 Visit my [portfolio website](https://TopTen1310.github.io/) for more information and to get in touch.
+- 👋 Check out my personal [blog](https://TopTen1310.github.io/blog/) for articles and insights.
+- ✍️ Follow me on [Medium](https://TopTen1310.medium.com/) for more written content.
+
+---
+
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TopTen1310&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TopTen1310&theme=dark&hide_border=true" width="400">
 </p>
 
-## Prefered Technicals
+---
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-
-## Languages & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,html,js,ts,css,sass,flutter,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,laravel,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,md,nginx,git,github,linux,svg,unity,vercel,heroku,aws,rust,solidity" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="R">
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://html.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
 </p>
-<br><br>
