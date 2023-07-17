@@ -1,12 +1,12 @@
 
 # Hi 👋 I am TopTen1310! 
-I am a software engineer at [AdviceCloud FT](https://advicecloudft.com/), where I specialize in solving complex finanical data problems using cutting-edge technology and tools.
+I am a software engineer and I specialize in solving complex finanical data problems using cutting-edge technology and tools.
 
 #### Web & Mobile Development
 - HTML5, CSS3, JavaScript, jQuery, Prototype
 - C#, .NET, .NET Core, ASP.NET, Entity Framework
 - TypeScript, Angular.js, React.js, Node.js, Express
-- Python, Django, Flask, Odoo
+- Python, Django, Flask, FastAPI, Odoo
 - Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
 - Wordpress, Drupal, Joomla, Typo3
 - WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
