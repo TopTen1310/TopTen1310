@@ -4,7 +4,7 @@ I am a software engineer and I specialize in solving complex finanical data prob
 
 #### Web & Mobile Development
 - HTML5, CSS3, JavaScript, jQuery, Prototype
-- C#, .NET, .NET Core, ASP.NET, Entity Framework
+- GO, Gin, Gorm
 - TypeScript, Angular.js, React.js, Node.js, Express
 - Python, Django, Flask, FastAPI, Odoo
 - Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
