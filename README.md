@@ -1,6 +1,20 @@
 
 # Hi 👋 I am gK~! 
-I am a software engineer and I specialize in solving complex healthcare and finanical data problems using cutting-edge technology and tools.
+
+👋 I'm a Senior Full-Stack Software Engineer with over 7 years of experience in building scalable, performant, and user-centric web applications. My journey began with C++, C#, Python, JavaScript, Golang and has since expanded to encompass a diverse technology stack, from the intricacies of backend development in Django, Gin, Express, Flask, FastAPI, .NET to crafting intuitive frontend interfaces with React and Vue.
+
+🚀 My expertise includes:
+
+<b>Backend Development:</b> Proficient in designing RESTful APIs, integrating with databases, and implementing robust authentication & authorization mechanisms.<br>
+<b>Frontend Development:</b> Skilled in developing responsive UI, optimizing performance, and ensuring seamless user experiences.<br>
+<b>DevOps & CI/CD:</b> Experienced in automating deployment processes, scaling applications, and ensuring high availability using tools like Docker, K8s, Jenkins, CircleCI.<br>
+<b>Architectural Design:</b> Proficient in microservices architecture, design patterns, and crafting scalable & maintainable codebases.
+
+💡 I'm a lifelong learner who's always eager to explore the latest in tech. Whether it's delving into a new framework, contributing to open-source projects, or collaborating in diverse teams, I approach challenges with an analytical mindset and a penchant for problem-solving.
+
+🤝 Collaboration is at the heart of what I do. I believe in building strong team dynamics, mentoring budding developers, and driving projects to success through clear communication and agile methodologies.
+
+🔍 Currently diving deep into Serverless architectures, GraphQL and ChatGPT. Always open to discussing tech, potential collaborations, or new opportunities. Let's connect and build the future!
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
