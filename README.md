@@ -1,5 +1,5 @@
 
-# Hi 👋 I am 🚀~ gK🚀 
+# Hi 👋
 
 👋 I'm a Senior Full-Stack Software Engineer with over 7 years of experience in building scalable, performant, and user-centric web applications. My journey began with C++, C#, Python, JavaScript, Golang and has since expanded to encompass a diverse technology stack, from the intricacies of backend development in Django, Gin, Express, Flask, FastAPI, .NET to crafting intuitive frontend interfaces with React and Vue.
 
@@ -14,7 +14,7 @@
 
 🤝 Collaboration is at the heart of what I do. I believe in building strong team dynamics, mentoring budding developers, and driving projects to success through clear communication and agile methodologies.
 
-🔍 Currently diving deep into Serverless architectures, GraphQL and ChatGPT. Always open to discussing tech, potential collaborations, or new opportunities. Let's connect and build the future!
+🔍 Currently diving deep into Serverless architectures, GraphQL, ChatGPT and AI Agent development. Always open to discussing tech, potential collaborations, or new opportunities. Let's connect and build the future!
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
